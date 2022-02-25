@@ -1,4 +1,6 @@
 ### 👋 Eae, Eu sou Luis Felipe Vanin Martins
+
+![my stats](https://github-readme-stats.vercel.app/api?username=LuigiVanin&count_private=true&hide=contribs,prs&show_icons=true&theme=dark)
 <!--
 **LuigiVanin/LuigiVanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
