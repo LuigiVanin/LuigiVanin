@@ -1,8 +1,15 @@
 ### 👋 Eae, Eu sou Luis Felipe Vanin Martins
 
-![my stats](https://github-readme-stats.vercel.app/api?username=LuigiVanin&count_private=true&hide=contribs,prs&show_icons=true&theme=dark)
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiVanin&hide=jupyter%20notebook&layout=compact&theme=dark" align="center"></img>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuigiVanin&count_private=true&hide=contribs,prs&show_icons=true&theme=dark"></img>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiVanin&hide=jupyter%20notebook&layout=compact&theme=dark"></img>
+</p>
+
 <!--
 **LuigiVanin/LuigiVanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
