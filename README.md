@@ -1,10 +1,9 @@
-<h2 align="center">
 <img width="100%" src="./images/header.svg">
-<h2>
 
 #### _*Feliz em aprender coisas novas* ✨_
 
 **me:** Estudante de engenharia da computação pela UFRN e bolsista de Iniciação científica no projeto SpaceVANT. Atualmente em formação de Dev FullStack pela @driven.
+.
 
 ### Stuff about me
 
