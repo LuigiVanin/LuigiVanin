@@ -1,4 +1,12 @@
+<h2 align="center">
 <img width="100%" src="./images/header.svg">
+<h2>
+
+### _*Feliz em aprender coisas novas ✨*_
+
+<br>
+
+**me:** Estudante de engenharia da computação pela UFRN e bolsista de Iniciação científica no projeto SpaceVANT. Atualmente em formação de Dev FullStack pela @driven.
 
 <!-- <h1 align="center"> 👋 Eae, Eu sou Luis Felipe Vanin Martins </h1> -->
 
