@@ -3,7 +3,6 @@
 #### _*Feliz em aprender coisas novas* ✨_
 
 **me:** Estudante de engenharia da computação pela UFRN e bolsista de Iniciação científica no projeto SpaceVANT. Atualmente em formação de Dev FullStack pela @driven.
-.
 
 ### Stuff about me
 
