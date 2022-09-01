@@ -4,14 +4,14 @@
 
 **me:** Estudante de engenharia da computação pela UFRN e bolsista de Iniciação científica no projeto SpaceVANT. Atualmente em formação de Dev FullStack pela @driven.
 
-### Stuff about me
+### Coisas sobre mim
 
--   🌱 I’m currently learning Django Rest-Framework and Typescript
--   📫 How to reach me: luisfvaninmartins@gmail.com
--   😄 Pronouns: [he/him]
--   🍓 Fun fact: I love strawberrys
+-   🌱 Eu estou atualmente aprendendo Django Rest-Framework and Typescript
+-   📫 Como entrar em contato comigo: luisfvaninmartins@gmail.com
+-   😄 Pronomes: [he/him]
 
-### Tools 🛠️
+
+### Ferramentas 🛠️
 
 <p align="center">
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-### Languages 💻
+### Linguagens 💻
 
 <p align="center">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
