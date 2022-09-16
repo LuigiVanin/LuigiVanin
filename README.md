@@ -48,8 +48,6 @@ Feliz em aprender coisas novas ✨
 
 ### Entre em contato 📞
 
-<br>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/luis-felipe-vanin-martins-5a5b38215">
 <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue">
