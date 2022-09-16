@@ -4,7 +4,7 @@
 Feliz em aprender coisas novas ✨
 </p>
 
-**me:** Estudante de engenharia da computação pela UFRN e bolsista como desenvolvedor backend na Instituto Metrópole Digital - UFRN. Atualmente em formação de Dev FullStack pela @driven.
+**EU ->** Estudante de engenharia da computação pela UFRN e bolsista como desenvolvedor backend na Instituto Metrópole Digital - UFRN. Atualmente em formação de Dev FullStack pela @driven. Adoro aprender coisas novas, às vezes até demais! Quase não paro quieto na hora de me aprofundar em novas tecnologias. Em resumo, estou sempre aprendendo🤓.
 
 ### Coisas sobre mim
 
