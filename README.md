@@ -46,6 +46,15 @@ Feliz em aprender coisas novas ✨
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/luis-felipe-vanin-martins-5a5b38215">
+<img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue">
+</a>
+<a href="mailto:luisfvanin2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail:%20luisfvanin2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
 <!-- <h1 align="center"> 👋 Eae, Eu sou Luis Felipe Vanin Martins </h1> -->
 
 <!-- <br>
@@ -71,3 +80,4 @@ Here are some ideas to get you started:
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ...
     -->
+    
