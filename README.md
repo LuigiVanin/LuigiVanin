@@ -46,7 +46,7 @@ Feliz em aprender coisas novas ✨
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 </p>
 
-## Entre em contato 📞
+### Entre em contato 📞
 
 <br>
 
