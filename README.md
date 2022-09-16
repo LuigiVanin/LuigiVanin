@@ -1,8 +1,8 @@
 <img width="100%" src="./images/header.svg">
 
-<center>
+<p align="center">
 Feliz em aprender coisas novas ✨
-</center>
+</p>
 
 **me:** Estudante de engenharia da computação pela UFRN e bolsista como desenvolvedor backend na Instituto Metrópole Digital - UFRN. Atualmente em formação de Dev FullStack pela @driven.
 
