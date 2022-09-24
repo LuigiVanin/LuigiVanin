@@ -4,11 +4,11 @@
 Feliz em aprender coisas novas ✨
 </p>
 
-**EU ->** Estudante de engenharia da computação pela UFRN e bolsista como desenvolvedor backend na Instituto Metrópole Digital - UFRN. Atualmente em formação de Dev FullStack pela @driven. Adoro aprender coisas novas, às vezes até demais! Quase não paro quieto na hora de me aprofundar em novas tecnologias. Em resumo, estou sempre aprendendo 🤓.
+**EU ->** Estudante de engenharia da computação pela UFRN e bolsista como desenvolvedor backend no Instituto Metrópole Digital - UFRN. Atualmente em formação de Dev FullStack pela @@driven-education. Adoro aprender coisas novas, às vezes até demais! Quase não paro quieto na hora de me aprofundar em novas tecnologias. Em resumo, estou sempre aprendendo 🤓.
 
 ### Coisas sobre mim
 
--   🌱 Eu estou atualmente aprendendo: Astro and Rust
+-   🌱 Eu estou atualmente aprendendo: **Astro** e **Rust**
 -   👀 Tecnologias que estou interessado: **Java** e **Go**
 -   📫 Como entrar em contato comigo: luisfvaninmartins@gmail.com
 -   😄 Pronomes: [ele/deles]
