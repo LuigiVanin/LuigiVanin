@@ -8,8 +8,8 @@ Feliz em aprender coisas novas ✨
 
 ### Coisas sobre mim
 
--   🌱 Eu estou atualmente aprendendo: **Spring-Boot**, **Astro** e **Rust**
--   👀 Tecnologias que estou interessado: **Next** e **Go**
+-   🌱 Eu estou atualmente aprendendo: **Next** e **Rust**
+-   👀 Tecnologias que estou interessado: **Spring-Boot**  e **Go**
 -   📫 Como entrar em contato comigo: luisfvaninmartins@gmail.com
 -   😄 Pronomes: [ele/deles]
 
