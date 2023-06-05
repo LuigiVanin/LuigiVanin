@@ -8,8 +8,8 @@ Feliz em aprender coisas novas ✨
 
 ### Coisas sobre mim
 
--   🌱 Eu estou atualmente aprendendo: **Nuxt** e **Rust**
--   👀 Tecnologias que estou interessado: **WebSockets**  e **Scala**
+-   🌱 Eu estou atualmente aprendendo: **Websocket** e **Tailwind**
+-   👀 Tecnologias que estou interessado: **Message Brokers**  e **Rust(again)**
 -   📫 Como entrar em contato comigo: luisfvaninmartins@gmail.com
 -   😄 Pronomes: [ele/deles]
 
