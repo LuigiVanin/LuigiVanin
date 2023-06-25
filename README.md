@@ -4,18 +4,26 @@
 Feliz em aprender coisas novas ✨
 </p>
 
-**EU ->** Estudante de engenharia da computação pela UFRN e bolsista como desenvolvedor backend no Instituto Metrópole Digital - UFRN. Atualmente em formação de Dev FullStack pela @@driven-education. Adoro aprender coisas novas, às vezes até demais! Quase não paro quieto na hora de me aprofundar em novas tecnologias. Em resumo, estou sempre aprendendo 🤓.
+**Sobre mim:** Estudante de engenharia da computação pela UFRN. Formado como Dev FullStack pela [@DrivenEducation](https://www.driven.com.br/). Atualmente trabalhando na [@CopyBase](https://copybase.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=search-b2c&utm_term=copybase&gclid=Cj0KCQjwy9-kBhCHARIsAHpBjHiHZ22mx2c3Udf3Ewh26xjoBBXVObzC80_LZ0w66VDRM-Vsm5hOz1caAgsAEALw_wcB).
 
-### Coisas sobre mim
+Adoro aprender coisas novas, às vezes até demais! Quase não paro quieto na hora de me aprofundar em novas tecnologias. Em resumo, estou sempre aprendendo 🤓.
+
+### Ferramentas Diárias(_Work/Personal_) ⚡
+
+<p align="center">
+
+<img src="/images/tools.svg" width="250px" />
+
+</p>
+
+<!-- ### Coisas sobre mim
 
 -   🌱 Eu estou atualmente aprendendo: **Websocket** e **Tailwind**
 -   👀 Tecnologias que estou interessado: **Message Brokers**  e **Rust(again)**
 -   📫 Como entrar em contato comigo: luisfvaninmartins@gmail.com
--   😄 Pronomes: [ele/deles]
+-   😄 Pronomes: [ele/deles] -->
 
-
-
-### Ferramentas 🛠️
+<!-- ### Ferramentas 🛠️
 
 <p align="center">
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -33,7 +41,7 @@ Feliz em aprender coisas novas ✨
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+</p> -->
 
 ### Linguagens 💻
 
@@ -82,4 +90,3 @@ Here are some ideas to get you started:
 -   😄 Pronouns: ...
 -   ⚡ Fun fact: ...
     -->
-    
