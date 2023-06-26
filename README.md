@@ -8,7 +8,7 @@ Feliz em aprender coisas novas ✨
 
 Adoro aprender coisas novas, às vezes até demais! Quase não paro quieto na hora de me aprofundar em novas tecnologias. Em resumo, estou sempre aprendendo 🤓.
 
-### Ferramentas Diárias(_Work/Personal_) ⚡
+### Ferramentas(_Work/Personal_) ⚡
 
 <p align="center">
 
