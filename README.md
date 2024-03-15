@@ -4,7 +4,7 @@
 Feliz em aprender coisas novas ✨
 </p>
 
-**Sobre mim:** Estudante de engenharia da computação pela UFRN. Formado como Dev FullStack pela [@DrivenEducation](https://www.driven.com.br/). Atualmente trabalhando na [@CopyBase](https://copybase.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=search-b2c&utm_term=copybase&gclid=Cj0KCQjwy9-kBhCHARIsAHpBjHiHZ22mx2c3Udf3Ewh26xjoBBXVObzC80_LZ0w66VDRM-Vsm5hOz1caAgsAEALw_wcB).
+**Sobre mim:** Estudante de engenharia da computação pela UFRN. Formado como Dev FullStack pela [@DrivenEducation](https://www.driven.com.br/).
 
 Adoro aprender coisas novas, às vezes até demais! Quase não paro quieto na hora de me aprofundar em novas tecnologias. Em resumo, estou sempre aprendendo 🤓.
 
