@@ -56,7 +56,7 @@ Adoro aprender coisas novas, às vezes até demais! Quase não paro quieto na ho
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,python,scss,html,c,cpp" width="320px"/>
+<img src="https://skillicons.dev/icons?i=ts,python,scss,html,c,cpp,cs" width="340px"/>
 
 </p>
 
